@@ -1,0 +1,6 @@
+Line 1: Python is a high-level programming language.
+Line 2: It has a design philosophy that general-purpose interpreted,emphasizes code readability, notably using significant whitespace, interactive, object-oriented, and high-level programming language.
+Line 3: It has grown from humble beginnings into one of the most popular programming languages on the planet.
+Line 4: Python support Artificial Intelligence (AI), Machine Learning (ML), natural language processing and data science.
+Line 5: It's a great language for first time programmers. 
+Line 6: It's an open source programming language that is known for its simple and easy to learn syntax.it has numerous libraries and built in features which makes it easy to tackle the needs of Data science.
